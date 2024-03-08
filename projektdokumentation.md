@@ -61,8 +61,17 @@ Ein Programm erstellen, mit dem man eine Datei komprimieren und dekomprimieren k
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       |           | Implementierung der Dateikomprimierung             |               |
+| 1.B   |       |           | Testen der Dateikomprimierung             |               |
+| 2.A   |       |           | Implementierung der Dateidekomprimierung             |               |
+| 2.B   |       |           | Testen der Dateikomprimierung             |               |
+| 3.A   |       |           |Implementierung des Fortschrittsbalkens für die Komprimierung	              |               |
+| 4.A   |       |           | Implementierung des Fortschrittsbalkens für die Dekomprimierung	             |               |
+| 5.A   |       |           |Implementierung der Mehrfachdateikomprimierung	              |               |
+| 6.A   |       |           | Implementierung der Mehrfachdateidekomprimierung	             |               |
+| 7.A   |       |           | Implementierung der Fehlerbehandlung	             |               |
+| 8.A   |       |           | Implementierung der einstellbaren Komprimierungsrate	             |               |
+
 
 Total: 
 
