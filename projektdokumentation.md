@@ -27,23 +27,13 @@ Ein Programm erstellen, mit dem man eine Datei komprimieren und dekomprimieren k
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |   Muss	              |Funktion      | Als Benutzer möchte ich eine Datei komprimieren, um Speicherplatz zu sparen.|
-| 2  |  Muss	               | Funktion     | Als Benutzer möchte ich eine komprimierte Datei dekomprimieren, um ihren ursprünglichen Inhalt anzuzeigen.
-                                   |
-| 3  |     Sollte	            |  Funktion    | Als Benutzer möchte ich den Fortschritt der Komprimierung sehen, um den Status des Prozesses zu kennen.
-                                   |
-| 4  |     Sollte	            | Funktion     |  Als Benutzer möchte ich den Fortschritt der Dekomprimierung sehen, um den Status des Prozesses zu kennen.
-                                  |
-| 5  |      Kann           |  Funktion    |  Als Benutzer möchte ich mehrere Dateien gleichzeitig komprimieren, um Zeit zu sparen.
-                                  |
-| 6  |     Kann            |  Funktion    |  Als Benutzer möchte ich mehrere Dateien gleichzeitig dekomprimieren, um Zeit zu sparen.
-                                  |
-| 7  |    Muss	             |  Funktion    | Als Benutzer möchte ich eine klare Fehlermeldung erhalten, wenn die Komprimierung oder Dekomprimierung fehlschlägt.
-                                   |
-| 8  |    Kann             | Funktion     | Als Benutzer möchte ich die Komprimierungsrate einstellen, um die Balance zwischen Größe und Qualität zu steuern.
-
-
-
-                                   |
+| 2  |  Muss	               | Funktion     | Als Benutzer möchte ich eine komprimierte Datei dekomprimieren, um ihren ursprünglichen Inhalt anzuzeigen. |
+| 3  |     Sollte	            |  Funktion    | Als Benutzer möchte ich den Fortschritt der Komprimierung sehen, um den Status des Prozesses zu kennen.|
+| 4  |     Sollte	            | Funktion     |  Als Benutzer möchte ich den Fortschritt der Dekomprimierung sehen, um den Status des Prozesses zu kennen.|
+| 5  |      Kann           |  Funktion    |  Als Benutzer möchte ich mehrere Dateien gleichzeitig komprimieren, um Zeit zu sparen.|
+| 6  |     Kann            |  Funktion    |  Als Benutzer möchte ich mehrere Dateien gleichzeitig dekomprimieren, um Zeit zu sparen.|
+| 7  |    Muss	             |  Funktion    | Als Benutzer möchte ich eine klare Fehlermeldung erhalten, wenn die Komprimierung oder Dekomprimierung fehlschlägt.|
+| 8  |    Kann             | Funktion     | Als Benutzer möchte ich die Komprimierungsrate einstellen, um die Balance zwischen Größe und Qualität zu steuern.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
