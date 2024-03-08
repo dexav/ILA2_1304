@@ -5,7 +5,7 @@ Nursiwat Xavier, Girgioni Leonardo
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|08.03.2024       | 0.0.1   | "I" fertig und P angefangen. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -15,11 +15,7 @@ Nursiwat Xavier, Girgioni Leonardo
 
 Ein Programm erstellen, mit dem man eine Datei komprimieren und dekomprimieren kann.
 
-
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-55
-
+Wir erstellen ein Programm wo man einzelne oder auch mehrere Dateien komprimieren und dekomprimieren kann. Es ist ein Programm, was auch mit dem Modul 114 zu tun hat. Wir werden das Programm in Pyhton schreiben, damit wir unser Kenntnis über Python erweitern können.
 
 
 ### 1.2 User Stories
