@@ -41,14 +41,21 @@ Ein Programm erstellen, mit dem man eine Datei komprimieren und dekomprimieren k
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Eine Datei ist vorhanden	            |Komprimierungsbefehl	        |  Die Datei wird komprimiert und Speicherplatz wird gespart|
+|2.1   |Eine komprimierte Datei ist vorhanden	              |Dekomprimierungsbefehl         | Die Datei wird dekomprimiert und der ursprüngliche Inhalt wird angezeigt|
+|3.1   | Eine Datei wird komprimiert	             |Keine Eingabe	         |Der Fortschritt der Komprimierung wird angezeigt|
+|4.1   |Eine Datei wird dekomprimiert	              |Keine Eingabe	         |Der Fortschritt der Dekomprimierung wird angezeigt|
+|5.1   |Mehrere Dateien sind vorhanden|Komprimierungsbefehl	         |Alle Dateien werden gleichzeitig komprimiert|
+|6.1   |Mehrere komprimierte Dateien sind vorhanden	              |Dekomprimierungsbefehl         Alle Dateien werden gleichzeitig dekomprimiert|                   |
+|7.1   |Eine Datei kann nicht komprimiert/dekomprimiert werden	              |Komprimierung/Dekomprimierungsbefehl	         |Eine klare Fehlermeldung wird angezeigt|
+|8.1   |Eine Datei ist vorhanden	              |Komprimierungsbefehl mit Komprimierungsrate	         |Die Datei wird mit der angegebenen Komprimierungsrate komprimiert|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
+
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+
 
 ## 2 Planen
 
