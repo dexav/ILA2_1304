@@ -1,8 +1,7 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Nursiwat Xavier, Girgioni Leonardo
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,16 +13,37 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ein Programm erstellen, mit dem man eine Datei komprimieren und dekomprimieren kann.
+
+
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+55
+
+
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |   Muss	              |Funktion      | Als Benutzer möchte ich eine Datei komprimieren, um Speicherplatz zu sparen.|
+| 2  |  Muss	               | Funktion     | Als Benutzer möchte ich eine komprimierte Datei dekomprimieren, um ihren ursprünglichen Inhalt anzuzeigen.
+                                   |
+| 3  |     Sollte	            |  Funktion    | Als Benutzer möchte ich den Fortschritt der Komprimierung sehen, um den Status des Prozesses zu kennen.
+                                   |
+| 4  |     Sollte	            | Funktion     |  Als Benutzer möchte ich den Fortschritt der Dekomprimierung sehen, um den Status des Prozesses zu kennen.
+                                  |
+| 5  |      Kann           |  Funktion    |  Als Benutzer möchte ich mehrere Dateien gleichzeitig komprimieren, um Zeit zu sparen.
+                                  |
+| 6  |     Kann            |  Funktion    |  Als Benutzer möchte ich mehrere Dateien gleichzeitig dekomprimieren, um Zeit zu sparen.
+                                  |
+| 7  |    Muss	             |  Funktion    | Als Benutzer möchte ich eine klare Fehlermeldung erhalten, wenn die Komprimierung oder Dekomprimierung fehlschlägt.
+                                   |
+| 8  |    Kann             | Funktion     | Als Benutzer möchte ich die Komprimierungsrate einstellen, um die Balance zwischen Größe und Qualität zu steuern.
+
+
+
+                                   |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
