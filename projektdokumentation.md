@@ -6,7 +6,7 @@ Nursiwat Xavier, Girgioni Leonardo
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |08.03.2024       | 0.0.1   | "I" fertig und P angefangen. |
-|       | ...     |                                                              |
+|15.03.2024       | 0.0.2   |"R" angefangen                                                               |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -31,7 +31,6 @@ Wir erstellen ein Programm wo man einzelne oder auch mehrere Dateien komprimiere
 | 7  |    Muss	             |  Funktion    | Als Benutzer möchte ich eine klare Fehlermeldung erhalten, wenn die Komprimierung oder Dekomprimierung fehlschlägt.|
 | 8  |    Kann             | Funktion     | Als Benutzer möchte ich die Komprimierungsrate einstellen, um die Balance zwischen Größe und Qualität zu steuern.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -57,23 +56,18 @@ Wir erstellen ein Programm wo man einzelne oder auch mehrere Dateien komprimiere
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           | Implementierung der Dateikomprimierung             |               |
-| 1.B   |       |           | Testen der Dateikomprimierung             |               |
-| 2.A   |       |           | Implementierung der Dateidekomprimierung             |               |
-| 2.B   |       |           | Testen der Dateikomprimierung             |               |
-| 3.A   |       |           |Implementierung des Fortschrittsbalkens für die Komprimierung	              |               |
-| 4.A   |       |           | Implementierung des Fortschrittsbalkens für die Dekomprimierung	             |               |
-| 5.A   |       |           |Implementierung der Mehrfachdateikomprimierung	              |               |
-| 6.A   |       |           | Implementierung der Mehrfachdateidekomprimierung	             |               |
-| 7.A   |       |           | Implementierung der Fehlerbehandlung	             |               |
-| 8.A   |       |           | Implementierung der einstellbaren Komprimierungsrate	             |               |
+| 1.A  |22.03.2024       | Xavier Nursiwat          | Implementierung der Dateikomprimierung             |               |
+| 2.A   |22.03.2024       | Xavier Nursiwat           | Implementierung der Dateidekomprimierung             |               |
+| 3.A   |22.03.2024       | Xavier Nursiwat           |Implementierung des Fortschrittsbalkens für die Komprimierung	              |               |
+| 4.A   |22.03.2024       |  Xavier Nursiwat          | Implementierung des Fortschrittsbalkens für die Dekomprimierung	             |               |
+| 5.A   |05.03.2024       | Leonardo Grigioni          |Implementierung der Mehrfachdateikomprimierung	              |               |
+| 6.A   |05.03.2024       | Leonardo Grigioni           | Implementierung der Mehrfachdateidekomprimierung	             |               |
+| 7.A   |05.03.2024       | Leonardo Grigioni           | Implementierung der Fehlerbehandlung	             |               |
+| 8.A   |05.03.2024       | Leonardo Grigioni           | Implementierung der einstellbaren Komprimierungsrate	             |               |
 
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
