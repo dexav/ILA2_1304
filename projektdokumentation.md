@@ -7,7 +7,7 @@ Nursiwat Xavier, Girgioni Leonardo
 | ----- | ------- | ------------------------------------------------------------ |
 |08.03.2024       | 0.0.1   | "I" fertig und P angefangen. |
 |15.03.2024       | 0.0.2   |"R" angefangen                                                               |
-|       | 1.0.0   |                                                              |
+| 22.03.2024      | 0.0.3   | "R" weitergearbeitet                                                            |
 
 ## 1 Informieren
 
